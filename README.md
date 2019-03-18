@@ -1,4 +1,4 @@
-# Unit 1 | Assignment - KickStart My Chart
+KickStart My Chart
 
 ## Background
 
@@ -78,13 +78,3 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
   * Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematic formulae, find the percentage of projects which were successful, failed, or were canceled per goal range.
 
   * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
-
-## Submission
-
-* To submit, please upload the solution and files to a Github repo, dropbox, or google drive and submit the link to <https://bootcampspot.com/>.
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2017. All Rights Reserved.
